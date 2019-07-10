@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1562768151 source:d:\nueva carpeta (2)\lamas2do\2do-parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562768161 d:\nueva carpeta (2)\lamas2do\2do-parcial\linkedlist.h
+
+1562770020 source:d:\nueva carpeta (2)\lamas2do\2do-parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pelicula.h"
+	"parser.h"
+
+1562766493 d:\nueva carpeta (2)\lamas2do\2do-parcial\pelicula.h
+
+1562760510 d:\nueva carpeta (2)\lamas2do\2do-parcial\parser.h
+
+1562769342 source:d:\nueva carpeta (2)\lamas2do\2do-parcial\parser.c
+	<stdlib.h>
+	<stdio.h>
+	"parser.h"
+	"LinkedList.h"
+	"pelicula.h"
+
+1562766493 source:d:\nueva carpeta (2)\lamas2do\2do-parcial\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pelicula.h"
+	"LinkedList.h"
+
